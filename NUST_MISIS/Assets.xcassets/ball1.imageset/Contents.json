@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "MISIS_logoblock_main_inv_eng_RGB-1.png",
+      "filename" : "ball1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "ball1@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "ball1@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
